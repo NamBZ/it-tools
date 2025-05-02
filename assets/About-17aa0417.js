@@ -1,1 +1,0 @@
-import{d as a,u as e,o as n,c as s,_ as c}from"./index-0ca6a18a.js";const u=a({__name:"About",setup(m){return e({title:"About - XTools.VuiZ.Net"}),(o,_)=>{const t=c;return n(),s(t,{markdown:o.$t("about.content"),"mx-auto":"","mt-50px":"","max-w-600px":""},null,8,["markdown"])}}});export{u as default};
