@@ -2,3 +2,6 @@
 Developer: Corentin Thomasset
 Site: https://github.com/CorentinTh
 Twitter: @cthmsst
+/* SITE */
+Author: nampt.me
+Server: Github Pages
